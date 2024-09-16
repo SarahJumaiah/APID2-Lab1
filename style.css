@@ -1,4 +1,6 @@
-
+.card-text{
+    color: rgb(39, 43, 150);
+}
 
 .card-img-top {
     height: 40vh; 
