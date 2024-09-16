@@ -9,7 +9,7 @@ fetch(url)
             colDiv.className = "col-md-3 mb-4"; 
 
             let cardDiv = document.createElement("div");
-            cardDiv.className = "store-card card h-100"; 
+            cardDiv.className = "store-card card h-100 p-1"; 
 
             let img = document.createElement("img");
             img.src = item.image;
