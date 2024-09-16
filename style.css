@@ -1,0 +1,15 @@
+
+
+.card-img-top {
+    height: 200px; 
+}
+
+.card{
+    transition: transform 0.3s ease;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+    background-color: rgb(217, 237, 244);
+}
+
+.card:hover{
+    transform: translateY(-10px);
+}
